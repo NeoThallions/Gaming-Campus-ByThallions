@@ -579,6 +579,9 @@ footer ul {
     .contact {
         display: none;
     }
+    .mn-pic {
+        height: 550px;
+    }
 }
 @media screen and (max-width: 530px) {
     .news-part {
